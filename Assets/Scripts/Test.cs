@@ -11,7 +11,8 @@ public class Test : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("Hello world meowwwwwww!");
+        Debug.Log("Hello world ok!");
         Debug.Log("Testing to make sure I know how to use github!")
+         Debug.Log("This is the latest one!");
     }
 }
